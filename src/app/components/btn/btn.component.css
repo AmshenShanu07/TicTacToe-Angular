@@ -1,0 +1,17 @@
+.btn-sqr {
+  width: 100px;
+  height: 100px;
+  font-size: 26px;
+  color: white;
+  background-color: rgb(140, 50, 224);
+  border: 1px solid rgb(37, 0, 71);
+  outline: none;
+}
+
+.btn-x {
+ background-color: rgb(100, 197, 165); 
+}
+
+.btn-o {
+  background-color: skyblue;
+}
